@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SUYASH1112004
-- 👀 I’m interested in Learning and getting knowledge.
-- 🌱 I’m currently learning DSA & Development
-- 📫 My Email Address is suyashpatil1114@gmail.com
-- 😄 Pronouns: He/Him
+- 👋 Hi, I’m @SUYASH1112004  
+- 👀 I’m interested in learning and gaining knowledge through collaboration.  
+- 🌱 I’m currently learning DSA & Development.  
+- 📫 You can reach me at: suyashpatil1114@gmail.com  
+- 😄 Pronouns: He/Him  
+
 
 
 <!---
